@@ -145,3 +145,6 @@ You can also specify a reply to email address by adding a `replyTo` parameter to
 	"text": "Hello World"
 }
 ```
+
+
+<!-- Security scan triggered at 2026-09-04 13:08:40 -->
